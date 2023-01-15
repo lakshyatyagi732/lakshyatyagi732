@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lakshyatyagi732
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Lakshya Tyagi
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 Instagram-@lakshyatyagi.83
