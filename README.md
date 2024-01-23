@@ -37,10 +37,6 @@ Hello there! 👋 I'm an engineering student with a passion for problem-solving 
 ⚡⇒ Engaged in the development of innovative and beneficial ideas.   
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
